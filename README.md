@@ -6,6 +6,7 @@ This repository contains a collection of small projects aimed at practicing data
 
 - **Project 1**: A calculator that uses NumPy to calculate some statistical data from a list.
 - **Project 2**: A demographic data analyzer made with pandas.
+- **Project 3**: Medical Examination Data Visualizer: Explore correlations and visualize health insights using matplotlib, seaborn, and pandas.
 
 Each project folder includes a README with specific details, datasets used (if any), and the steps or analyses performed.
 
