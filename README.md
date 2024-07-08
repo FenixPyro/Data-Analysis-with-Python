@@ -22,6 +22,8 @@ To get started with any project:
 
 - [Project 1](./mean_var_std_calculator/README.md)
 - [Project 2](./demographic_data_analyzer_with_pandas/README.md)
+- [Project 3](./medical_exam_data_visualizer/README.md)
+- [Project 4](./page_view_time_dataset_visualizer/README.md)
 
 ## Attribution
 
