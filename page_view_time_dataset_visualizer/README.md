@@ -27,6 +27,7 @@ This project visualizes time series data using Pandas, Matplotlib, and Seaborn. 
 ## Credits
 - Developed by Leonardo Carabajal
 - Dataset sourced from freeCodeCamp.org
+- Inspiration and guidance from freecodecamp.org
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).

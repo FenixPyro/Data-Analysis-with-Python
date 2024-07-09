@@ -1,13 +1,14 @@
 # Data Analysis Practice Projects
 
-This repository contains a collection of small projects aimed at practicing data analysis skills. These projects are based on exercises from FreeCodeCamp.
+This repository contains a collection of small projects aimed at practicing Data Analysis skills. These projects are based on exercises from FreeCodeCamp.
 
 ## Projects Included
 
 - **Project 1**: A calculator that uses NumPy to calculate some statistical data from a list.
-- **Project 2**: A demographic data analyzer made with pandas.
+- **Project 2**: A demographic data analyzer made with Pandas.
 - **Project 3**: Explore correlations and visualize health insights using Matplotlib, Seaborn, and Pandas.
 - **Project 4**: Visualize time series data of daily page views from the freeCodeCamp.org forum using Pandas, Matplotlib, and Seaborn.
+- **Project 5**: Analyze and predict global average sea level change from 1880 to 2050 using Pandas, Matplotlib, and SciPy.
 
 Each project folder includes a README with specific details, datasets used (if any), and the steps or analyses performed.
 
@@ -24,6 +25,7 @@ To get started with any project:
 - [Project 2](./demographic_data_analyzer_with_pandas/README.md)
 - [Project 3](./medical_exam_data_visualizer/README.md)
 - [Project 4](./page_view_time_dataset_visualizer/README.md)
+- [Project 5](./sea_predictor/README.md)
 
 ## Attribution
 

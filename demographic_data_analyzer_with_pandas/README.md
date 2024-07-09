@@ -46,6 +46,8 @@ This project analyzes demographic data using Pandas from a dataset extracted fro
 ## Credits
 - Developed by Leonardo Carabajal
 - Dataset sourced from the 1994 Census database
+- Inspiration and guidance from freecodecamp.org
+
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
